@@ -190,3 +190,6 @@ POST http://localhost:8080/api/plans
 * Docker Inc. [https://docs.docker.com](https://docs.docker.com)
 * Expo documentation. [https://docs.expo.dev/](https://docs.expo.dev/)
 * PostgreSQL. [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
+
+## Audio: 
+https://drive.google.com/file/d/18wJpOyRRpxjf0K31JBSSxVJgI2027z0_/view?usp=sharing
